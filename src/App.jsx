@@ -49,7 +49,7 @@ const App = () => {
   return (
     <CountriesContext.Provider value={{ data, setData }}>
       <div id="all">
-        <h1>Country</h1>
+        <h1>All Country</h1>
 
         <div id="form">
           <input type="text" required value={value} onChange={handleChange} />
