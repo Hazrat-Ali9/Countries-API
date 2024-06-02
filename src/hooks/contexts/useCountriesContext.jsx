@@ -1,4 +1,4 @@
-// user component
+// user component Context
 
 import { useContext } from "react";
 import { CountriesContext } from "./CountriesContext";
