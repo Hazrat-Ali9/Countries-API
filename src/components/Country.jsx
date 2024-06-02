@@ -25,3 +25,4 @@ const Country = ({ name, src, id }) => {
 };
 
 export default Country;
+// Country 
